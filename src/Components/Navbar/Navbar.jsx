@@ -28,7 +28,7 @@ function Navbar() {
 
     return (
         <>
-            <header className="bg-main sticky left-0 top-0 right-0 z-50">
+            <header className="bg-main sticky left-0 top-0 right-0 z-40">
                 <div className="container">
                     <nav className={`flex flex-wrap items-center justify-between text-white font-bold uppercase transition-all duration-500 ${navbar ? 'py-4' : 'py-8'}`}>
                         <div className="flex lg:flex lg:items-cente">

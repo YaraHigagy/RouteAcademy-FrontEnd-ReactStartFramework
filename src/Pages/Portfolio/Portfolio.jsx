@@ -79,7 +79,7 @@ function Portfolio() {
             </div>
 
             {/* ===== Modal ===== */}
-            <section className={`modal h-screen inset-0 ${isShown ? 'fixed' : 'hidden'} flex justify-center items-center`}>
+            <section className={`modal h-screen inset-0 ${isShown ? 'fixed' : 'hidden'} flex justify-center items-center z-50`}>
                 <div onClick={() => setIsShown(false)} className='bg-sec absolute inset-0'>
                 </div>
                 <div className='w-1/2 absolute'><img className='img-fluid' src={imgSrc} alt="port" /></div>
