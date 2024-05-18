@@ -2,4 +2,4 @@
 
 A simple React project, built with Tailwind CSS. <br />
 
-### Project's URL: https://yarahigagy.github.io/RouteAcademy-FrontEnd-ReactStartFramework/
+### Project's URL: https://route-academy-front-end-react-start-framework.vercel.app/
